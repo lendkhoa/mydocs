@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mock1.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = 'book'
