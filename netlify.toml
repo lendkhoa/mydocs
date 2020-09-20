@@ -1,0 +1,9 @@
+[build]
+ command = "npm run build"
+ publish = "/content"
+ bas = "/"
+
+[[redirect]]
+ from = "/*"
+ to = "/content/_index.md"
+ status = 200
