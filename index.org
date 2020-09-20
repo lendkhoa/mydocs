@@ -1,0 +1,7 @@
+---
+title: Introduction
+type: docs
+---
+
+* Index page
+[[file:content/posts/goisforlovers.md][Testing]]
