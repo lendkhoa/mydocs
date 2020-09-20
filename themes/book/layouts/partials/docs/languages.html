@@ -1,10 +1,10 @@
-<!-- Merge home and current page translations -->
+<!-- Merge home and current page translations<!--  --> -->
 {{ $translations := dict }}
 {{ range .Site.Home.AllTranslations }}
-  {{ $translations = merge $translations (dict .Language.Lang .) }}
+<!-- Nothing -->
 {{ end }}
 {{ range .Translations }}
-  {{ $translations = merge $translations (dict .Language.Lang .) }}
+<!-- Nothing -->
 {{ end }}
 
 <div class="book-languages" tabindex="0" aria-haspopup="true">
